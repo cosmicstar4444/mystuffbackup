@@ -1,0 +1,11 @@
+#Mon Apr 19 20:47:27 EDT 2021
+cloudVolume1Enabled=false
+cloudVolumeEnabled=false
+cloudVolumeStoryMode=true
+do_colorgrading=true
+DoFToggle=true
+fogVolumeEnabled=false
+motionblurToggle=false
+shadowMapResolution=1024
+shadowVPSEnabled=false
+waterParallaxEnabled=false
