@@ -1,0 +1,15 @@
+Download start
+Resolved download link: http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f8de01c9-2164-4ecb-908a-6daf43287d0c?P1=1619107503&P2=404&P3=2&P4=Zc0utYdVZaMpQR1mK0kQrMkBxUSfCUQdK%2f9KQAWITb%2fJXPCD%2bkpCO2R2tqxtknF1aHTTvhW2LeksWl1ceZbarg%3d%3d
+Actual download started
+Download complete
+Registering package
+Deployment progress: Processing 1%
+Deployment progress: Processing 2%
+Deployment progress: Processing 49%
+Deployment progress: Processing 51%
+Deployment progress: Processing 98%
+Deployment progress: Processing 98%
+Deployment progress: Processing 100%
+Deployment done: Completed
+App re-register done!
+App launch finished!
